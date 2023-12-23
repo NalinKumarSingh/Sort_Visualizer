@@ -1,6 +1,7 @@
 # Sorting Visualizer
 
 A web-based Sorting Visualizer implemented using HTML, CSS, and JavaScript.
+Here is the live link https://nalinkumarsingh.github.io/Sort_Visualizer/
 
 ## Overview
 
