@@ -23,11 +23,6 @@ This Sorting Visualizer allows users to visualize various sorting algorithms in 
 
 ## Usage
 
-1. Clone the repository:
-
-    ```bash
-    git clone https://github.com/your-username/sorting-visualizer.git
-    ```
 
 2. Open `index.html` in your preferred web browser.
 
